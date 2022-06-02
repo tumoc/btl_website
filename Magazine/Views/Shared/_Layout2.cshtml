@@ -1,0 +1,335 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="img/Daco_1024187.png" />
+    <title>Đại học Công Nghiệp Hà Nội</title>
+
+
+    <link href="/Assets/client/eliah/fontawesome/all.css" rel="stylesheet" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <!-- Font Awesome -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+    <!-- Spartan font -->
+    <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Slick -->
+    <!-- Add the slick-theme.css if you want default styling -->
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css" />
+    <!-- Add the slick-theme.css if you want default styling -->
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css" />
+
+
+    <link href="~/Assets/client/eliah/css/reset.css" rel="stylesheet" />
+
+    <link href="/Assets/client/eliah/css/pre.css" rel="stylesheet" />
+
+    <link href="/Assets/client/eliah/css/header-a.css" rel="stylesheet" />
+
+    <link href="/Assets/client/eliah/css/footer-a.css" rel="stylesheet" />
+
+    <link href="/Assets/client/eliah/css/blog.css" rel="stylesheet" />
+
+    <link href="/Assets/client/eliah/css/single-post.css" rel="stylesheet" />
+
+    <link href="/Assets/client/eliah/css/single-post1.css" rel="stylesheet" />
+
+    <link href="/Assets/client/eliah/css/blog2.css" rel="stylesheet" />
+
+
+    <!-- <link rel="stylesheet" href="css/all.css"> -->
+
+    <link href="/Assets/client/css/clientStyle.css" rel="stylesheet" />
+    <link href="~/Assets/client/css/grid.css" rel="stylesheet" />
+    <link href="~/Assets/client/css/main.css" rel="stylesheet" />
+
+    <script type="text/javascript">
+
+        $(function () {
+            $("#abc11").submit(function () {
+                if (this.name.value == "") {
+                } else {
+                    alert("Subscribe success!");
+                    document.getElementById("form-get-it").reset();
+                }
+                return false;
+            });
+        });
+
+        $(document).ready(function () {
+            $(document).mouseup(function (e) {
+                var container = $(".top-bar__search");
+
+                if (!container.is(e.target) && container.has(e.target).length === 0) {
+                    container.hide();
+                }
+            });
+
+            $(".post-wish").click(function () {
+                $(".post-wish>i").css('color', '#f26460');
+            });
+            $(".post-wish1").click(function () {
+                $(".post-wish1>i").css('color', '#f26460');
+            });
+            $(".post-wish2").click(function () {
+                $(".post-wish2>i").css('color', '#f26460');
+            });
+            $(".post-wish3").click(function () {
+                $(".post-wish3>i").css('color', '#f26460');
+            });
+            $(".post-wish4").click(function () {
+                $(".post-wish4>i").css('color', '#f26460');
+            });
+            $(".post-wish5").click(function () {
+                $(".post-wish5>i").css('color', '#f26460');
+            });
+            $(".post-wish6").click(function () {
+                $(".post-wish6>i").css('color', '#f26460');
+            });
+            $("#show__search-input").click(function () {
+                $(".top-bar__search").show();
+                $(".top-bar__search").css('display', 'flex');
+            });
+
+            $(".top-bar__icon-cart").click(function () {
+                $(".inside-cart").show();
+                $(".inside-cart").css('opacity', '1');
+
+                // $(".hover-carts").css('display','block');
+                $("#overlay").css('display', 'block');
+            });
+            $(".cart-quantity").click(function () {
+                $(".inside-cart").show();
+                $(".inside-cart").css('opacity', '1');
+                // $(".hover-carts").css('display','block');
+                $("#overlay").css('display', 'block');
+            });
+
+            $("#overlay").click(function () {
+                $(".inside-cart").hide();
+
+                $("#overlay").hide();
+            });
+
+            $("#btn-show-menu").click(function () {
+                $(".top-bar__menu").css('left', '0');
+            });
+
+
+            $("#btn-times").click(function () {
+                $(".top-bar__menu").css('left', '-100%');
+            });
+
+        });
+    </script>
+
+
+</head>
+<body>
+
+    <header>
+        <section class="top-bar" style="height: 72px;">
+            <div class="top-bar__content">
+                <div>
+                    <div class="top-bar__logo">
+                        <div class="header-logo">
+                            <img class="header-logoimg" src="https://www.haui.edu.vn/dnn/web/haui/assets/images/logo-ngang.webp" alt="HAUI">
+                        </div>
+                    </div>
+                    <div class="top-bar__menu">
+                        <ul>
+                            <i id="btn-times" class="far fa-times"></i>
+                            <li>
+                                <a href="/HomePage/Index">Home</a>
+
+                            </li>
+                            <li style="display: none;"><a href="coming-soon.html">About</a></li>
+                            <li id="item-home" style="position: relative;">
+                                <a href="blog2.html">Categories</a>
+                                <div style="z-index: 888;" class="menu-home">
+                                    <a href=""><div><span></span>Lãnh đạo</div></a>
+                                    <a href=""><div><span></span>Phòng ban</div></a>
+                                    <a href=""><div><span></span>Giới thiệu</div></a>
+                                    <a href=""><div><span></span>Tin tức</div></a>
+                                    <a href=""><div><span></span>Thông báo</div></a>
+                                </div>
+                            </li>
+                            <li><a href="#contact">Contact</a></li>
+
+                        </ul>
+                    </div>
+
+                    <div class="top-bar__cart">
+                        <div id="show__search-input" style="position: relative;">
+                            <i class="fal fa-search stt"></i>
+                            <div class="tool-tip-search">
+                                Search post
+                                <div></div>
+                            </div>
+                            <div class="top-bar__search">
+                                @using (Html.BeginForm("Index", "HomePage", FormMethod.Get, new { @class = "search1-form" }))
+                                {
+
+                                    @Html.TextBox("searchst",
+                                        null,
+                                        new
+                                        {
+                                            id = "searchst",
+                                            @class = "top-bar__search-input"
+                                        })
+                                    <input id="btsearch" value="submit" style="display: none;" type="submit" />
+                                    <label style="position: absolute; top: 8px; right: -20px;" for="btsearch"><i class="fal fa-search"></i></label>
+                                }
+                            </div>
+                        </div>
+
+                        <div class="button-bar">
+                            <input type="checkbox" id="click-menu">
+                            <label for="click-menu" id="menu-btn">
+                                <i id="btn-show-menu" class="far fa-bars"></i>
+                            </label>
+                        </div>
+
+                    </div>
+                </div>
+            <</div>
+        </section>
+    </header>
+
+    <main>
+        <section class="hero">
+
+            <img src="https://www.haui.edu.vn/media/2/ufi2582.webp" alt="Alternate Text" />
+        </section>
+
+        <section class="main-content">
+
+            <div class="mc-container">
+                <div class="mc-lsb">
+
+                    <div class="lsb__follow">
+                    </div>
+
+                    <div class="lsb__category">
+                        <h2>Tin nổi bật</h2>
+                        <div>
+                            <a href="/HomePage/Detail/17">
+                                <span>Hoạt động thực tập gắn với doanh nghiệp giúp nâng cao năng lực thực tiễn và kỹ năng mềm cho sinh viên</span>
+                                
+                            </a>
+                            <a href="/HomePage/Detail/16">
+                                <span>Trung tâm Quản lý Ký túc xá: Hướng tới mô hình Ký túc xá thông minh</span>
+                            </a>
+                            <a href="/HomePage/Detail/13">
+                                <span>NGND.PGS.TS.Trần Đức Quý: Giải pháp đào tạo nguồn nhân lực chất lượng cao phục vụ ngành công nghiệp phụ trợ</span>
+                            </a>
+                            <a href="/HomePage/Detail/10">
+                                <span>Thông báo về việc bổ nhiệm 02 Phó Hiệu trưởng Trường Đại học Công nghiệp Hà Nội</span>
+                            </a>
+                            <a href="/HomePage/Detail/11">
+                                <span>Thông báo về phòng, chống dịch bệnh COVID-19 và Kế hoạch đào tạo từ ngày 06/12/2021 đến ngày 19/12/2021</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="lsb__popular-post">
+                        <h2>Góc nhìn HAUI</h2>
+                        <div>
+                            <div class="lsb__pp-post">
+                                <div>
+                                    <img src="https://www.haui.edu.vn/media/82/m82768.jpg" alt="">
+                                </div>
+                                <div class="title">
+                                    <h3><a href="/HomePage/Detail/15">Câu chuyện thành công của “Chàng IT Tỉnh lẻ” Đinh Ngọc Cường</a></h3>
+                                    <span>13 March 2021</span>
+                                </div>
+                            </div>
+                            <div class="lsb__pp-post">
+                                <div>
+                                    <img src="https://www.haui.edu.vn/media/82/m82861.jpg" alt="">
+                                </div>
+                                <div class="title">
+                                    <h3><a href="/HomePage/Detail/14">Nam sinh viên "đa năng" trường Đại học Công nghiệp Hà Nội từng là chàng trai nhút nhát</a></h3>
+                                    <span>13 Nov 2020</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                @RenderBody()
+            </div>
+
+        </section>
+
+        <section class="bottom-list-img">
+        </section>
+    </main>
+
+    <div class="footer-grid" id="contact">
+        <div class="grid wide">
+            <footer class="footer">
+                <div class="row">
+                    <div class="col l-4">
+                        <div class="footer-logo">
+                            <img src="https://www.haui.edu.vn/dnn/web/haui/assets/images/logo.png" alt="logo">
+                        </div>
+                        <div class="map">
+                            <h1>Bản đồ chỉ dẫn</h1>
+                            <p><h3>Trường Đại Học Công Nghiệp Hà Nội</h3></p>
+                            <div class="mapshow">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.473663078486!2d105.73291811540255!3d21.053735992299995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31345457e292d5bf%3A0x20ac91c94d74439a!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBDw7RuZyBuZ2hp4buHcCBIw6AgTuG7mWk!5e0!3m2!1svi!2s!4v1631076181348!5m2!1svi!2s" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col l-4">
+                        <h1>Trụ sở chính</h1>
+                        <p><h3>Số 298 đường Cầu Diễn, quận Bắc Từ Liêm, Hà Nội</h3></p>
+                        <p><h3>+84 243 765 5121</h3></p>
+                        <p><h3>Email: dhcnhn@haui.edu.vn</h3></p>
+                        <br />
+                        <h1>Cơ sở khác</h1>
+                        <p><h3>Cơ sở 2: Phường Tây Tựu, Bắc Từ Liêm, Hà Nội</h3></p>
+                        <p><h3>Cơ sở 3: Lê Hồng Phong, TP. Phủ Lý, Hà Nam</h3></p>
+                    </div>
+                    <div class="col l-4">
+                        <h1>Liên kết Site</h1>
+                        <p><h3>Trường Đại học Công nghiệp Hà Nội</h3></p>
+                        <p><h3>Cổng thông tin tuyển sinh</h3></p>
+                        <p><h3>Hành chính điện tử</h3></p>
+                        <p><h3>Đào tạo trực tuyến</h3></p>
+                        <p><h3>Cổng thông tin đào tạo</h3></p>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <div class="copyright-grid">
+        <div class="grid wide">
+            <div class="row">
+                <div class="col l-12">
+                    <p>Copyright © 2018 Đại Học Công Nghiệp Hà Nội</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slick -->
+    <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
+
+    @RenderSection("ClientScript1", required: false);
+</body>
+</html>

@@ -1,0 +1,487 @@
+E:\ASPNET\TieuLuan\Source\Magazine\bin\Magazine.dll.config
+E:\ASPNET\TieuLuan\Source\Magazine\bin\Magazine.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\Magazine.pdb
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\csc.exe
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\csc.exe.config
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\csc.rsp
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\csi.exe
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\csi.exe.config
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\csi.rsp
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.AppContext.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Collections.Immutable.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Console.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.IO.Compression.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.IO.FileSystem.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Net.Http.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Net.Sockets.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.ValueTuple.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Xml.XPath.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\vbc.exe
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\vbc.exe.config
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\vbc.rsp
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\VBCSCompiler.exe
+E:\ASPNET\TieuLuan\Source\Magazine\bin\roslyn\VBCSCompiler.exe.config
+E:\ASPNET\TieuLuan\Source\Magazine\bin\Antlr3.Runtime.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\Microsoft.Web.Infrastructure.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\Newtonsoft.Json.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.Helpers.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.Mvc.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.Optimization.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.Razor.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.WebPages.Deployment.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.WebPages.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.WebPages.Razor.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\WebGrease.dll
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.Helpers.xml
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.Mvc.xml
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.Optimization.xml
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.Razor.xml
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.WebPages.xml
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.WebPages.Deployment.xml
+E:\ASPNET\TieuLuan\Source\Magazine\bin\System.Web.WebPages.Razor.xml
+E:\ASPNET\TieuLuan\Source\Magazine\bin\Newtonsoft.Json.xml
+E:\ASPNET\TieuLuan\Source\Magazine\bin\Antlr3.Runtime.pdb
+E:\ASPNET\TieuLuan\Source\Magazine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASPNET\TieuLuan\Source\Magazine\obj\Debug\Magazine.csprojAssemblyReference.cache
+E:\ASPNET\TieuLuan\Source\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+E:\ASPNET\TieuLuan\Source\Magazine\obj\Debug\Magazine.csproj.CopyComplete
+E:\ASPNET\TieuLuan\Source\Magazine\obj\Debug\Magazine.dll
+E:\ASPNET\TieuLuan\Source\Magazine\obj\Debug\Magazine.pdb
+E:\ASPNET\Wizard Magazine\Magazine\bin\Magazine.dll.config
+E:\ASPNET\Wizard Magazine\Magazine\bin\Magazine.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\Magazine.pdb
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\csc.exe
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\csc.exe.config
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\csc.rsp
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\csi.exe
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\csi.exe.config
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\csi.rsp
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.AppContext.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Collections.Immutable.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Console.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.IO.Compression.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.IO.FileSystem.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Net.Http.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Net.Sockets.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.ValueTuple.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XPath.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\vbc.exe
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\vbc.exe.config
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\vbc.rsp
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\VBCSCompiler.exe
+E:\ASPNET\Wizard Magazine\Magazine\bin\roslyn\VBCSCompiler.exe.config
+E:\ASPNET\Wizard Magazine\Magazine\bin\Antlr3.Runtime.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\Microsoft.Web.Infrastructure.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\Newtonsoft.Json.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.Helpers.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.Mvc.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.Optimization.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.Razor.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.WebPages.Deployment.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.WebPages.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.WebPages.Razor.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\WebGrease.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.Helpers.xml
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.Mvc.xml
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.Optimization.xml
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.Razor.xml
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.WebPages.xml
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.WebPages.Deployment.xml
+E:\ASPNET\Wizard Magazine\Magazine\bin\System.Web.WebPages.Razor.xml
+E:\ASPNET\Wizard Magazine\Magazine\bin\Newtonsoft.Json.xml
+E:\ASPNET\Wizard Magazine\Magazine\bin\Antlr3.Runtime.pdb
+E:\ASPNET\Wizard Magazine\Magazine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASPNET\Wizard Magazine\Magazine\obj\Debug\Magazine.csprojAssemblyReference.cache
+E:\ASPNET\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+E:\ASPNET\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.CopyComplete
+E:\ASPNET\Wizard Magazine\Magazine\obj\Debug\Magazine.dll
+E:\ASPNET\Wizard Magazine\Magazine\obj\Debug\Magazine.pdb
+E:\ASPNET\Wizard Magazine\Magazine\bin\DataAccess.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\EntityFramework.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\DataAccess.pdb
+E:\ASPNET\Wizard Magazine\Magazine\bin\DataAccess.dll.config
+E:\ASPNET\Wizard Magazine\Magazine\bin\EntityFramework.xml
+E:\ASPNET\Wizard Magazine\Magazine\bin\EntityFramework.SqlServer.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\EntityFramework.SqlServer.xml
+E:\ASPNET\Wizard Magazine\Magazine\bin\CKFinder.dll
+E:\ASPNET\Wizard Magazine\Magazine\bin\CKFinder.pdb
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\Magazine.dll.config
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\Magazine.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\Magazine.pdb
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\CKFinder.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\DataAccess.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\DataAccess.pdb
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\DataAccess.dll.config
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\CKFinder.pdb
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\obj\Debug\Magazine.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\obj\Debug\Magazine.pdb
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Website\obj\Debug\Magazine.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Website\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Website\obj\Debug\Magazine.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Website\obj\Debug\Magazine.pdb
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.CopyComplete
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\Magazine.dll.config
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\Magazine.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\Magazine.pdb
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\csc.exe
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\csc.exe.config
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\csc.rsp
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\csi.exe
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\csi.exe.config
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\csi.rsp
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.AppContext.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Console.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.Compression.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Net.Sockets.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.ValueTuple.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XPath.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\vbc.exe
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\vbc.exe.config
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\vbc.rsp
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\VBCSCompiler.exe
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\CKFinder.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\DataAccess.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\DataAccess.pdb
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\DataAccess.dll.config
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\bin\CKFinder.pdb
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.AssemblyReference.cache
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.CopyComplete
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.pdb
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\Magazine.dll.config
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\Magazine.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\Magazine.pdb
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\CKFinder.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\DataAccess.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\DataAccess.pdb
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\DataAccess.dll.config
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\bin\CKFinder.pdb
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.pdb
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\Magazine.dll.config
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\Magazine.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\Magazine.pdb
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\CKFinder.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\DataAccess.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\DataAccess.pdb
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\DataAccess.dll.config
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\bin\CKFinder.pdb
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\Magazine\obj\Debug\Magazine.pdb
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\Magazine.dll.config
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\Magazine.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\Magazine.pdb
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\CKFinder.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\DataAccess.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\DataAccess.pdb
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\DataAccess.dll.config
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\bin\CKFinder.pdb
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\obj\Debug\Magazine.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\obj\Debug\Magazine.dll
+C:\Users\DELL\Desktop\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Magazine\Magazine\obj\Debug\Magazine.pdb
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\Magazine\obj\Debug\Magazine.dll
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\Magazine\obj\Debug\Magazine.pdb

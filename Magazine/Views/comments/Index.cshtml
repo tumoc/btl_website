@@ -1,0 +1,70 @@
+﻿@model IEnumerable<DataAccess.EntityFramework.comment>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+@section ClientScript1{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(document).mouseup(function (e) {
+                var container = $(".top-bar__search");
+
+                if (!container.is(e.target) && container.has(e.target).length === 0) {
+                    container.hide();
+                }
+            });
+
+
+            window.onload = function () {
+                $('.content-post__img').slick({
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    dots: true,
+                    // centerMode: true,
+                    // focusOnSelect: true,
+                    arrows: true,
+                    infinite: true,
+                    // speed: 300,
+                    slidesToShow: 1,
+                    adaptiveHeight: true,
+                    autoplay: true,
+                    autoplaySpeed: 2000,
+                });
+            };
+
+        });
+    </script>
+}
+
+
+<div class="mc-post">
+    <div class="mcp__large-post">
+        <p>
+            <div class="content-post">
+                <h2>Tất cả bình luận</h2>
+                @foreach (var item in Model)
+                {
+                    <p>
+                        @Html.DisplayFor(modelItem => item.email)
+                        @Html.DisplayFor(modelItem => item.create_time)
+                    </p><br />
+                    @Html.DisplayFor(modelItem => item.cmt_cotnent) <br /><br />
+                }
+            </div>
+            <br />
+            <br />
+            <p>
+                <a href="/comments/create">Viết bình luận</a>
+            </p>
+            <br />
+            <br />
+            <p>
+                <a href="/homepage/detail/@TempData["article_id"]">Quay lại bài viết</a>
+            </p>
+        </div>
+    </div>
+
+
+</div>

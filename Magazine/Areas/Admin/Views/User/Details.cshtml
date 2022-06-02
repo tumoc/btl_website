@@ -1,0 +1,74 @@
+﻿@model DataAccess.EntityFramework.user
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout1.cshtml";
+}
+
+<h2>Thông tin</h2>
+<div class="container-fluid admin-artcles">
+
+    <!-- Page Heading -->
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-body">
+            <div class="table-responsive">
+                <dl class="dl-horizontal">
+                    <dt>
+                        Tên:
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.usename)
+                    </dd>
+
+                    <dt>
+                        Email:
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.email)
+                    </dd>
+
+                    <dt>
+                        PassWord
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.password)
+                    </dd>
+
+                    <dt>
+                        Họ tên
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.full_name)
+                    </dd>
+
+                    <dt>
+                        Ảnh đại diện
+                    </dt>
+
+                    <dd>
+                        <img style="max-width: 150px" src="@Html.DisplayFor(model => model.avatar)" />
+                    </dd>
+
+                    <dt>
+                        Mô tả
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.sefl_des)
+                    </dd>                    
+                </dl>
+                <div>
+                        @Html.ActionLink("Sửa thông tin", "Edit", new { id = Model.user_id })
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    
+</div>
+

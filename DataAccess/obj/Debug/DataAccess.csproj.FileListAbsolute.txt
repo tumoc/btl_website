@@ -1,0 +1,68 @@
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll.config
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\DataAccess.pdb
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.dll
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.xml
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.dll
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\DELL\Downloads\Wizard_Magazine\Wizard Magazine\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll.config
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\bin\Debug\DataAccess.pdb
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.xml
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP NET\BTL\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\DELL\Downloads\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\DELL\Desktop\btl\Wizard Magazine\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mr.Tu\Desktop\tai lieu\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\Nhom12_XayDungWebsiteDaiHocCongNghiepHaNoi\HaUI Magazine\DataAccess\obj\Debug\DataAccess.pdb

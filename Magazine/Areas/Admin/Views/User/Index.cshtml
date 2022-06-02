@@ -1,0 +1,86 @@
+﻿@model  IEnumerable<DataAccess.EntityFramework.user>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout1.cshtml";
+}
+@section Scriptss{
+    <script>
+        setTimeout(function () {
+            $("#msgAlert").fadeOut('slow');
+        },2000);
+    </script>
+}
+
+
+<!-- Begin Page Content -->
+<div class="container-fluid admin-artcles">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Tài khoản</h1>
+    <!-- DataTales Example -->
+    @if (ViewBag.group_id == "admin")
+    {
+        <p>
+            @Html.ActionLink("Tạo tài khoản", "Create")
+        </p>
+    } 
+        <div class="card shadow mb-4">
+            <div class="card-body">
+                @if (ViewBag.msg != null)
+                {
+                    <div id="msgAlert" class="alert alert-success" role="alert">
+                        @ViewBag.msg
+                    </div>
+                }
+                <div class="table-responsive">
+                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Tên</th>
+                                <th>Email</th>
+                                <th>Họ và tên</th>
+                                <th>Ảnh đại diện</th>
+                                <th>Mô tả</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr id="row_@item.user_id">
+                                    <td><div>@item.user_id</div></td>
+                                    <td><div>@item.usename</div></td>
+                                    <td><div>@item.email</div></td>
+                                    <td><div>@item.full_name</div></td>
+                                    <td><div><img style="max-width: 150px" src="@item.avatar" /></div></td>
+                                    <td><div>@item.sefl_des</div></td>
+                                    <td>
+                                        @if (ViewBag.group_id == "admin")
+                                        {
+                                            <div>@Html.ActionLink("Chi tiết", "Infor", new { id = item.user_id })</div>
+                                            <div>@Html.ActionLink("Sửa ", "Edit1", new { id = item.user_id })</div>
+
+                                            <div>
+
+                                                @Ajax.ActionLink("Xóa", "Delete", new { @id = item.user_id }, new AjaxOptions
+                                               {
+                                                   Confirm = "Xác nhận xóa user có username: \"" + @item.usename + "\"?",
+                                                   OnComplete = "$('#row_" + item.user_id + "').remove()",
+                                                   HttpMethod = "Delete"
+                                               })
+                                            </div>
+                                        }
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- /.container-fluid -->
+<!-- End of Main Content -->

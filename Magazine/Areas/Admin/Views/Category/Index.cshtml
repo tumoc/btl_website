@@ -1,0 +1,57 @@
+﻿@model IEnumerable<DataAccess.EntityFramework.category>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout1.cshtml";
+}
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Thể loại</h1>
+    <p class="link-create">
+        @Html.ActionLink("Tạo thể loại", "Create")
+    </p>
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Mã thể loại</th>
+                            <th>Tên thể loại</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr id="row_@item.cate_id">
+                                <td>@item.cate_id</td>
+                                <td>@item.cate_name</td>
+                                <td>
+                                    <div>@Html.ActionLink("Sửa", "Edit", new { id = item.cate_id }) </div> 
+                                    <div>
+                                           @Ajax.ActionLink("Xóa", "Delete", new { @id = item.cate_id }, new AjaxOptions
+                                          {
+                                              Confirm="Xác nhận xóa thể loại \""+@item.cate_name + "\"?",
+                                              OnComplete = "$('#row_"+item.cate_id+"').remove()",
+                                              HttpMethod = "Delete"
+                                          })
+                                    </div>
+                                    
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- /.container-fluid -->
+<!-- End of Main Content -->

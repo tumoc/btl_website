@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --white-coler: #fff;
+    --primary-color: #0d4e96;
+    --width-sub-item: 120px;
+    --height-sub-item: 36px;
+    --text-color: #4d695b;
+    --img-height: 60px;
+    --black-color: rgb(34, 34, 34);
+}
+
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: Arial,sans-serif;
+}
+
+/* Nav */
+.nav-grid{
+    background-color:var(--primary-color);
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    margin-left: 0;
+}
+.nav-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 36px;
+    font-size: 1.2rem;
+}
+
+.nav-item{
+    list-style: none;
+    position: relative;
+    padding: 0 8px;
+    border-right: 1px solid #ccc;
+    color: #fff;
+    width: auto;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: #fff;
+}
+.nav-item:hover .nav-list-sub{
+    display: block;
+}
+.nav-list-sub{
+    position: absolute;
+    top: calc(100% + 8px);
+    display: none;
+    border: 1px solid var(--white-coler);
+    z-index: 1;
+}
+.nav-list-sub::after{
+    content: '';
+    position: absolute;
+    top: -9px;
+    height:10px;
+    width: 100%;
+}
+.nav-item-sub{
+    list-style: none;
+    min-width: 250px;
+    height:36px;
+    background-color:#fff;
+    border-bottom: 1px solid #ccc;
+    
+}
+.nav-item-sub a{
+    display: block;
+    line-height: 36px;
+    color: var(--black-color);
+    padding: 0 8px;
+}
+/* Header */
+.header-grid{
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    /* position: fixed; */
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: calc(var(--img-height) + 16px);
+    align-items:center;
+    
+}
+.header-logoimg{
+    height: var(--img-height);
+}
+.header-list {
+    font-size: 1.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-weight: 700;
+}
+.header-itemlink:hover,
+.header-item:hover{
+    color: var(--black-color);
+}
+.header-item:hover .header-listsub{
+    display: block;
+}
+.header-item{
+    position: relative;
+    margin: 0 8px;
+    cursor: pointer;
+    color: var(--primary-color);
+}
+.header-listsub{
+    position: absolute;
+    top: calc(100% + 8px);
+    display: none;
+    width: 300px;
+    background-color:#fff;
+    border-top: 3px solid var(--primary-color);
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+.header-listsub::after{
+    content: "";
+    position: absolute;
+    height: 12px;
+    width: 100%;
+    top: -10px;
+}
+.header-itemsub:hover{
+    transform: translateX(2px);
+    
+}
+
+.header-itemlink{
+    display: block;
+    padding: 0 8px;
+    color: var(--primary-color);
+}
+.header-itemsublink{
+    display: block;
+    padding: 0 8px;
+    line-height: 36px;
+    color: var(--primary-color);
+    
+}
+
+/* Banner */
+.baner-img{
+    display: none;
+    height: auto;
+    width: 100%;
+}
+.baner-img.active{
+    display: block;
+}
+/* Footer */
+.footer-grid{
+    padding: 30px 0 0;
+    background: url(https://www.haui.edu.vn/dnn/web/haui/assets/images/footer.png) #0d4e96 no-repeat center;
+}
+.footer-grid{
+    color: #fff;
+}
+.footer-grid p{
+    margin: 16px 0;
+}
+.footer-grid h1{
+    margin-bottom: 16px;
+}
+.copyright-grid{
+    height: 66px;
+    width: 100%;
+    font-size: 1.6rem;
+    color: #fff;
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 20px 0;
+}
